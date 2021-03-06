@@ -2,6 +2,7 @@
 <h1 align="center">
 🌈17wanxiaoCheckin-Actions
 </h1>
+
 [![](https://img.shields.io/badge/author-ReaJason-red "作者")](https://github.com/ReaJason/)
 ![](https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DReaJason&labelColor=282c34&color=181717&logo=github&longCache=truee "关注数量")
 <br>
@@ -10,7 +11,7 @@
 ![](https://img.shields.io/github/forks/ReaJason/17wanxiaoCheckin-Actions?style=social "Fork数量")
 <br>
 ![](https://img.shields.io/github/v/release/ReaJason/17wanxiaoCheckin-Actions "release版本")
-<br>
+
 </div>
 
 ## ✨项目介绍
