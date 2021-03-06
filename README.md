@@ -12,6 +12,7 @@
 ![](https://img.shields.io/github/v/release/ReaJason/17wanxiaoCheckin-Actions "release版本")
 <br>
 </div>
+
 ## ✨项目介绍
 
 &emsp;&emsp;伴随着疫情的到来，学校为了解在校生的健康状况，全校师生都需要在特定的时间进行健康打卡，本项目旨在帮助使用完美校园健康打卡的在校师生提供帮助，每天指定时间进行自动打卡，从每天指定时间打卡的压力中解放出来，全身心地投入到社会主义建设之中去。
